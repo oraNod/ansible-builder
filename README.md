@@ -7,7 +7,7 @@ Ansible Builder is a tool that automates the process of building execution
 environments using the schemas and tooling defined in various Ansible
 collections and by the user.
 
-See the readthedocs page for `ansible-builder` at:
+See the Read the Docs page for `ansible-builder` at:
 
 https://ansible-builder.readthedocs.io/en/stable/
 
